@@ -1,16 +1,19 @@
-## Hi there 👋
+# Brandon Simoncic - Robotic Engineer
 
-<!--
-**BrandonSimoncic/BrandonSimoncic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi! I'm Brandon Simoncic, a passionate Robotic Engineer with expertise in machine learning, computer vision, and autonomous systems. My work focuses on integrating cutting-edge technologies into robotic platforms to solve complex problems.
 
-Here are some ideas to get you started:
+## Skills & Expertise
+- **Robotics**: Autonomous Vehicles, Embedded Systems, Micro-Robotics, Legged Platforms  
+- **Software Development**: Machine Learning, Computer Vision, Data Analysis  
+- **Tools & Technologies**: ROS (Robot Operating System), Rust, C++, Python, MATLAB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+**Bachelor's of Science in Robotic Engineering**  
+*with a minor in Mathematics*  
+Lawrence Technological University
+
+## Contact Me
+Feel free to reach out!  
+GitHub: [BrandonSimoncic](https://github.com/BrandonSimoncic)  
+Email: BrandonSimoncic@ gmail.com
