@@ -3,6 +3,8 @@
 ## About Me
 Hi! I'm Brandon Simoncic, a passionate Robotic Engineer with expertise in machine learning, computer vision, and autonomous systems. My work focuses on integrating cutting-edge technologies into robotic platforms to solve complex problems.
 
+The purpose of this github is just to maintain my pet projects. Keep in mind, you will see a few WIP projects.
+
 ## Skills & Expertise
 - **Robotics**: Autonomous Vehicles, Embedded Systems, Micro-Robotics, Legged Platforms  
 - **Software Development**: Machine Learning, Computer Vision, Data Analysis  
