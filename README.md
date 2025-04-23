@@ -17,5 +17,4 @@ Lawrence Technological University
 
 ## Contact Me
 Feel free to reach out!  
-GitHub: [BrandonSimoncic](https://github.com/BrandonSimoncic)  
 Email: BrandonSimoncic@gmail.com
